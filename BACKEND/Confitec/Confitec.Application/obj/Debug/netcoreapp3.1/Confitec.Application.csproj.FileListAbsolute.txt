@@ -1,0 +1,14 @@
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Domain.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Infra.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.AssemblyInfoInputs.cache
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.AssemblyInfo.cs
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Application.deps.json
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Application.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Application.pdb
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Infra.pdb
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\bin\Debug\netcoreapp3.1\Confitec.Domain.pdb
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.csprojAssemblyReference.cache
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.csproj.CoreCompileInputs.cache
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.csproj.CopyComplete
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Application\obj\Debug\netcoreapp3.1\Confitec.Application.pdb

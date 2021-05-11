@@ -1,0 +1,12 @@
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\bin\Debug\netcoreapp3.1\Confitec.Infra.deps.json
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\bin\Debug\netcoreapp3.1\Confitec.Infra.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\bin\Debug\netcoreapp3.1\Confitec.Infra.pdb
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\bin\Debug\netcoreapp3.1\Confitec.Domain.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\bin\Debug\netcoreapp3.1\Confitec.Domain.pdb
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.csprojAssemblyReference.cache
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.AssemblyInfoInputs.cache
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.AssemblyInfo.cs
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.csproj.CopyComplete
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.dll
+C:\Users\vinie\source\repos\Confitec\Confitec.Infra\obj\Debug\netcoreapp3.1\Confitec.Infra.pdb
